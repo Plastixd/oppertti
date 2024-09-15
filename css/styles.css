@@ -49,7 +49,7 @@ header {
 }
 
 main{
-    margin-top: 100px;
+    margin-top: 120px;
     width: 100%;
     display: flex;
     flex-direction:column;
@@ -78,10 +78,37 @@ main{
 }
 
 .features{
-    height: 900px;
+    background-color: rgb(245, 179, 255);
+    text-align: center;
     width: 100%;
-    background-color:rgb(245, 179, 255);
-    margin-top: 120px;
 }
+
+.features h2{
+    margin-top: 20px;
+    background-color: rgb(245, 179, 255);
+}
+
+.featuresimg{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin-left: 10%;
+    justify-content: space-between;
+    background-color: rgb(245, 179, 255);
+}
+
+.features img{
+    border-radius: 30px;
+    height: 240px;
+    width: 240px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+
+
+
+
+
 
 
