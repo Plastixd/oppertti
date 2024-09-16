@@ -105,8 +105,27 @@ main{
     margin-bottom: 40px;
 }
 
+.aboutpelu{
+    width: 80%;
+    margin: 80px 0px;
+}
 
+.aboutcont{
+    display: flex;
+    text-align: justify;
+    align-items: center;
+    justify-content: space-between;
+}
 
+.aboutcont h3{
+    width: 40%;
+}
+
+.aboutcont img{
+    width: 480px;
+    height: 244px;
+    border-radius: 20px;
+}
 
 
 
