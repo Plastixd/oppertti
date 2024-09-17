@@ -127,6 +127,33 @@ main{
     border-radius: 20px;
 }
 
+.portfolio{
+    text-align: center;
+    margin-top: 50px;
+    width: 100%;
+    background-color: rgb(245, 179, 255);
+    padding-bottom: 50px;
+}
+
+.portfolio h2{
+    background-color:rgb(245, 179, 255);
+    padding: 50px 0px;
+}
+
+.portfolioboxes{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: rgb(245, 179, 255);
+}
+
+.portfolioboxes a{
+    overflow: hidden;
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    background-color: rgb(245, 179, 255);
+}
 
 
 
