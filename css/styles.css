@@ -160,8 +160,8 @@ main{
     border-radius: 20px;
     text-align: center;
     margin: 100px 0px;
-    width: 80%;
-    padding: 50px 0px;
+    width: 60%;
+    padding: 50px 0px 70px 0px;
 }
 
 .contacto h2{
@@ -172,14 +172,6 @@ main{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-}
-
-.contactoboxes a{
-    overflow: hidden;
-    width: 250px;
-    height: 250px;
-    border-radius: 20px;
-    background-color: rgb(245, 179, 255);
 }
 
 .contactoboxes img{
